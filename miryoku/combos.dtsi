@@ -3,7 +3,7 @@
         compatible = "zmk,combos";
         combo_jk {
             timeout-ms = <50>;
-            key-positions = <19 20>;
+            key-positions = <7 8>;
             bindings = <&kp SINGLE_QUOTE>;
         };
     };
